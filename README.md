@@ -1,4 +1,4 @@
-# Correct framseshifts in PacBio sequence assembled genomes
+# Correct framseshifts in PacBio SMRT sequencing assembled genomes
 
 #### Program to find possible frameshifted genes in your genomes and correct them using reference genes
 #### README file will be soon available
